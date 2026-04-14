@@ -4,7 +4,7 @@ Beautiful HTML email campaigns with [Resend](https://resend.com) and [Claude Cod
 
 A Claude Code skill that encodes a complete pattern for building and sending modern marketing emails — asset hosting, reusable design blocks (frost-glass cards, video blocks with blurred backgrounds, CTA buttons), GIF optimization, and the Resend send pipeline.
 
-![demo](./demo.gif)
+https://github.com/user-attachments/assets/ebe21347-07d0-401a-8d85-fc3b5db93a42
 
 ## What's inside
 
