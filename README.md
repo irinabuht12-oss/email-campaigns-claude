@@ -51,6 +51,16 @@ The `examples/` folder has a complete real-world email (the Ryze AI × Claude Co
 
 Open `examples/claude-connector.html` in any browser for the live preview.
 
+## Pull the numbers for the email from your ad accounts
+
+The example campaign in `examples/` announces the Ryze connector. If you want Claude to read your own Google Ads, Meta Ads, GA4 or Search Console data while it writes (results, winners, the stat for the hero), add the free Ryze MCP once:
+
+```
+claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp
+```
+
+In claude.ai, Claude Desktop or Cursor: Settings › Connectors › Add custom connector, paste `https://connector.get-ryze.ai/mcp`. [Setup guide →](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp) · [48 more Claude marketing skills →](https://github.com/irinabuht12-oss/marketing-skills)
+
 ## License
 
 MIT
